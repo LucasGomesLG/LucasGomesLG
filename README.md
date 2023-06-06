@@ -6,8 +6,7 @@
 - 📫 Meu e-mail: lucasgp447@gmail.com
 - ⚡ Fun fact: eu não sei descascar laranja
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGomesLG&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danwqs&layout=compact&langs_count=7&theme=dark"/>
 
 ## Tecnologias que eu uso 
 
