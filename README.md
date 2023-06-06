@@ -1,4 +1,4 @@
-###  Oi! meu nome é Lucas 👋
+###  Oi!, meu nome é Lucas 👋
 
 
 - 🔭 estou trabalhando com bots em python
