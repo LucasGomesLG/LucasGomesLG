@@ -1,13 +1,13 @@
 ###  Oi!, meu nome é Lucas 👋
 
 
-- 🔭 estou trabalhando com bots em python
+- 🔭 estou trabalhando com bots em python                                       
 - 🌱 Estudando python & C++
 - 📫 Meu e-mail: lucasgp447@gmail.com
-- ⚡ Fun fact: eu não sei descascar laranja 
+- ⚡ Fun fact: eu não sei descascar laranja
+
 
 [![Lucas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGomesLG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Tecnologias que eu uso 
 
 
