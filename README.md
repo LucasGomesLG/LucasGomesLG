@@ -6,7 +6,8 @@
 - 📫 Meu e-mail: lucasgp447@gmail.com
 - ⚡ Fun fact: eu não sei descascar laranja
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=LucasGomesLG&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)
+
 ## Tecnologias que eu uso 
 
 
