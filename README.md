@@ -3,7 +3,7 @@
 
 - 🔭 estou trabalhando com bots em python                                       
 - 🌱 Estudando python & C++
-- 📫 Meu e-mail: lucasgp447@gmail.com
+- 📫 Meu e-mail: gomesdepaulolucas@gmail.com
 - ⚡ Fun fact: eu não sei descascar laranja
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGomesLG&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
